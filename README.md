@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Yassine ELÂBOUBI</h1>
+<h1 align="center">👋 Hi, I'm Yassine</h1>
 
 <h3 align="center">Full Stack Web Developer · Based in Belgium</h3>
 

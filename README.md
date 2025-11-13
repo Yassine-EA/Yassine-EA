@@ -23,7 +23,6 @@ I like to build applications that are **clear**, **efficient**, and **well-struc
 - **Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript  
 - **Frameworks / Libraries**: React.js, Angular.js  
 - **UI / CSS**: Tailwind CSS, Bootstrap, Material-UI, Sass  
-- **Version Control**: Git, GitHub, GitLab  
 
 #### Backend
 

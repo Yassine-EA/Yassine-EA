@@ -10,7 +10,7 @@ I’m passionate about the invisible mechanics of the Web and the logic behind c
 I like to build applications that are **clear**, **efficient**, and **well-structured**.
 
 - 🎯 Full stack web developer in career transition, with a strong focus on clean, readable code  
-- 📚 Currently in my **3rd year of a Bachelor’s degree in Business IT (evening classes)**  
+- 📚 Currently in my **3rd year of a Bachelor’s degree in Business IT**  
 - 🧠 Curious and detail-oriented, I enjoy breaking down problems to find the best solution  
 - 🤝 I like working in environments where **high standards, innovation, and teamwork** matter  
 

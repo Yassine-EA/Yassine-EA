@@ -39,8 +39,7 @@ I like to build applications that are **clear**, **efficient**, and **well-struc
 
 - 🎓 **Bachelor’s degree in Business IT (3rd year)** – evening classes (ongoing)  
 - 🧑‍💻 **Full Stack Web Developer – Techno Futur TIC** (2022)  
-- 📘 Certificate in **Business Management – IFAPME** (2010)  
-- 🏗 2nd year of Bachelor’s degree – **Polytechnique de Mons** (2005)
+- 📘 Certificate in **Business Management – IFAPME** (2010)
 
 ---
 

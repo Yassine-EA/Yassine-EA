@@ -57,8 +57,9 @@ All of this shapes how I work as a developer today: organized, reliable, and qua
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-EA&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-EA&amp;layout=compact&amp;theme=tokyonight&amp;v=1" alt="Most used languages" />
 </p>
+
 
 ---
 

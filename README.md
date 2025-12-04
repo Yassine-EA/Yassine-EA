@@ -54,29 +54,10 @@ All of this shapes how I work as a developer today: organized, reliable, and qua
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine-EA&amp;layout=compact&amp;theme=tokyonight&amp;v=1" alt="Most used languages" />
-</p>
-
-
----
-
 ### 🌍 Languages
 
 - 🇫🇷 French: C1  
 - 🇬🇧 English: B2  
-
----
-
-### 🎯 What I’m Looking For
-
-I’m interested in:
-
-- 🚀 A **junior web / full stack developer** position  
-- 🤝 A team that values **code quality**, **mentoring**, and continuous improvement  
-- 🧩 Projects where I can learn, add value, and grow my skills  
 
 ---
 
